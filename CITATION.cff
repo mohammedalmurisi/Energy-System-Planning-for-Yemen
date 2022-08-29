@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this Publication, please cite it as below."
+authors:
+- family-names: "Almurisi"
+  given-names: "Mohammed Abdulrahman"
+- family-names: "Lim"
+  given-names: "Jeng Shiun"
+title: "Energy System Planning for Yemen: Supplementary Material"
+version: v1.0.0
+doi: 10.5281/zenodo.7030304
+date-released: 2022-08-28
+url: "https://github.com/mohammedalmurisi/Energy-System-Planning-for-Yemen/tree/v1.0.0"
